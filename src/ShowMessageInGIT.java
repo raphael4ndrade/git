@@ -5,6 +5,8 @@ public class ShowMessageInGIT {
 		// TODO Auto-generated method stub
 		System.out.println("Testando elderys Raphael");
 		System.out.println("Testando Biebelders!");
+		System.out.println("Teste OK!");
+
 	}
 
 }
